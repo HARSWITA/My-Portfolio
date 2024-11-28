@@ -1,2 +1,1 @@
-# Oasis-Task2
-It is a oasis task2  project .I completed tasks during internship.
+This is my personal portfolio
