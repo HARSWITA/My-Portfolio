@@ -17,7 +17,7 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 
 ## How to Run Locally
 1. Clone the repository  
-   git clone https://github.com/USERNAME/REPO-NAME.git
+   git clone https://github.com/harswita/My-Portfolio.git
 2. Open index.html in your browser
 
 ## Author
